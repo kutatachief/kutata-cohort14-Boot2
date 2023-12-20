@@ -1,0 +1,49 @@
+.Header{ 
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: rgba(143, 85, 215, 0.989);
+
+}
+
+
+
+.sidebar{
+
+    height: 50vh;
+    line-height: 8em;
+    font-size: 30px;
+    font-weight: bolder;
+  
+
+}
+
+.sidebar1{
+
+    background-color: #35e4aae8;
+}
+
+.Content1{
+
+    height: 20vh;
+    line-height: 4em;
+    font-size: 30px;
+    font-weight: bolder;
+    background-image: linear-gradient(to bottom right, rgba(122, 51, 209, 0.989),   #35e4aae8 );
+}
+
+.Content{
+
+    height: 30vh;
+    line-height: 5em;
+    font-size: 30px;
+    font-weight: bolder;
+    background-image: linear-gradient(to bottom right, rgba(122, 51, 209, 0.989),   #35e4aae8 );
+}
+
+.Footer{
+
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: rgba(143, 85, 215, 0.989);
+
+}

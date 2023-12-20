@@ -1,0 +1,65 @@
+
+
+
+.container{
+    background-image: linear-gradient(to bottom right, rgba(31, 236, 185, 0.989),   #00a3e4 );
+
+}
+
+
+.col h3{
+    text-align: left;   
+}
+
+.he1{
+
+    background-color: #2596be;
+}
+
+.he2{
+
+    background-color: #04b398;
+}
+
+
+
+.sidebar1{
+
+    height: 60vh;
+    background-color: #446085;
+}
+
+.sidebar h1, p{
+
+    margin-top: 3em;
+    text-align: left;
+
+}
+
+.Content1{
+    height: 30vh;
+
+   
+}
+
+.Content1 h1, p{
+ 
+ text-align: left;
+
+   
+}
+
+
+
+.Content{
+
+    height: 27.5vh;
+}
+
+.Content h1, p{
+ 
+    text-align: left;
+   
+      
+   }
+
